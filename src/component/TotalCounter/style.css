@@ -1,0 +1,12 @@
+.total {
+  display: flex;
+  flex-direction: row;
+  width: 25rem;
+  justify-content: space-between;
+  margin: 2rem auto;
+}
+
+.total > p {
+  font-size: 1rem;
+  font-weight: 700;
+}
